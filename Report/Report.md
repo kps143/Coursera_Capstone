@@ -8,3 +8,5 @@ When looking for a new apartment this type of information is not always easy to 
 Foursquare data will be used to get services information.  This will contain the types of venues available in a location.  Venue data includes ratings, stats (user counts and checking counts), likes, & price.  It also contains latitude and longitude data that can be used to calculate the exact distance from a given point.  
 
 Massachusetts Bay Transportation Authority (https://www.mbta.com/developers) has information related to the transportation in Boston.  The V3 API contains Vehicle, Trip, Stop, Shape, Schedule, Route, Prediction, & Facility information.  The shape data contains latitude and longitude information which will be used to calculate the distance from various points of interest in your neighborhood.
+
+![](apple.png)
